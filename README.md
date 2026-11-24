@@ -19,13 +19,9 @@ I build the systems small businesses and institutions run their money and record
 
 ## Stack
 
-| Area | Tools |
-|---|---|
-| Back end | `PHP` `Laravel` `Symfony` `Drupal` `CodeIgniter` `WordPress` `C#` `ASP.NET` `.NET` `Classic ASP` `Node.js` |
-| Data | `MySQL` `SQL Server` `PostgreSQL` `SQLite` `MS Access` `Crystal Reports` |
-| Front end | `React` `TypeScript` `Livewire` `JavaScript` `jQuery` `Angular` `Bootstrap` `Chart.js` |
-| Desktop and devices | `Electron` `Barcode` `RFID` `Fingerprint` |
-| Tooling | `Git` `Docker` `PHPUnit` `Vitest` `Playwright` |
+<img src="stack.svg" width="100%" alt="Timeline of tools from 2015 to now. Since 2015: PHP, MySQL and Docker. 2015 to 2020 at Kalinga Software, Mayo College: Classic ASP, VB.NET, SQL Server, Crystal Reports, C# and .NET, barcode, RFID and biometrics. Since 2020: Laravel and React; Symfony 2020 to 2025; REST APIs since 2020; Drupal since 2022; Livewire since 2025. In 2026: Electron, TypeScript, PostgreSQL and .NET again.">
+
+Also in the toolbox: `Git` `Node.js` `CodeIgniter` `WordPress` `jQuery` `Angular` `Bootstrap` `Chart.js` `SQLite` `MS Access` `PHPUnit` `Vitest` `Playwright`
 
 ## Selected work
 
