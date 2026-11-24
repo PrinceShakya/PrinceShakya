@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+  <title id="t">Prince Shakya, software engineer</title>
+  <desc id="d">A journal entry written as code: debit shops, schools and cooperatives; credit Laravel, .NET, React and PostgreSQL; then an assertion that the ledger balances.</desc>
+  <style>
+    .sans { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Roboto, Arial, sans-serif; }
+    .code { font: 17px 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; fill: #E6EEF0; }
+    .ln   { font: 15px 'SF Mono', Menlo, Consolas, monospace; fill: #4C6A73; text-anchor: end; }
+    .k { fill: #F2B45A; } .s { fill: #8FD6B9; } .c { fill: #6F8C94; font-style: italic; }
+    .v { fill: #7CC4F0; } .n { fill: #C9D6DA; }
+    .cursor { fill: #3FB68B; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+
+  <rect width="1200" height="340" fill="#0F2A33"/>
+  <!-- column rules of an accounting pad, faint -->
+  <path d="M0 82H1200M0 114H1200M0 146H1200M0 178H1200M0 210H1200M0 242H1200M0 274H1200M0 306H1200" stroke="#FFFFFF" stroke-opacity=".04"/>
+
+  <!-- name block -->
+  <g class="sans">
+    <text x="64" y="150" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="-1">Prince</text>
+    <text x="64" y="210" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="-1">Shakya</text>
+    <rect x="64" y="236" width="44" height="4" fill="#3FB68B"/>
+    <text x="64" y="274" font-size="20" fill="#A9BEC4">Software engineer</text>
+  </g>
+
+  <!-- code page -->
+  <rect x="440" y="28" width="732" height="284" rx="10" fill="#0A1F26" stroke="#1E3E48"/>
+  <line x1="510" y1="29" x2="510" y2="311" stroke="#1E3E48"/>
+
+  <g class="ln">
+    <text x="494" y="74">1</text><text x="494" y="106">2</text><text x="494" y="138">3</text>
+    <text x="494" y="170">4</text><text x="494" y="202">5</text><text x="494" y="234">6</text>
+    <text x="494" y="266">7</text><text x="494" y="298">8</text>
+  </g>
+
+  <g class="code">
+    <text x="532" y="74"><tspan class="c">// Every entry balances.</tspan></text>
+    <text x="532" y="106"><tspan class="v">$ledger</tspan>-&gt;<tspan class="n">post</tspan>(<tspan class="k">new</tspan> JournalEntry(</text>
+    <text x="573" y="138"><tspan class="n">narration</tspan>: <tspan class="s">'Software people run their business on'</tspan>,</text>
+    <text x="573" y="170"><tspan class="n">debit</tspan>:<tspan x="655">[</tspan><tspan class="s">'shops'</tspan>, <tspan class="s">'schools'</tspan>, <tspan class="s">'cooperatives'</tspan>],</text>
+    <text x="573" y="202"><tspan class="n">credit</tspan>:<tspan x="655">[</tspan><tspan class="s">'Laravel'</tspan>, <tspan class="s">'.NET'</tspan>, <tspan class="s">'React'</tspan>, <tspan class="s">'Postgres'</tspan>],</text>
+    <text x="532" y="234">));</text>
+    <text x="532" y="298"><tspan class="k">assert</tspan>(<tspan class="v">$ledger</tspan>-&gt;<tspan class="n">balanced</tspan>());</text>
+  </g>
+  <rect class="cursor" x="828" y="283" width="10" height="20"/>
+</svg>
