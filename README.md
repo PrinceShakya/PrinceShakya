@@ -2,6 +2,8 @@
 
 <p>
   <a href="https://princeshakya.com"><img src="https://img.shields.io/badge/princeshakya.com-0F2A33?style=flat-square&logo=googlechrome&logoColor=8FD6B9" alt="Website"></a>
+  <a href="https://princeshakya.com/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0F2A33?style=flat-square&labelColor=0A1F26&logo=readthedocs&logoColor=8FD6B9" alt="Résumé (PDF)"></a>
+  <a href="mailto:prince.shakya010@gmail.com"><img src="https://img.shields.io/badge/Email-prince.shakya010%40gmail.com-0F2A33?style=flat-square&labelColor=0A1F26&logo=gmail&logoColor=8FD6B9" alt="Email"></a>
   <a href="https://github.com/PrinceShakya"><img src="https://img.shields.io/github/followers/PrinceShakya?label=Follow&style=flat-square&color=0F2A33&labelColor=0A1F26&logo=github&logoColor=8FD6B9" alt="Follow on GitHub"></a>
 </p>
 
@@ -15,18 +17,30 @@ I build the systems small businesses and institutions run their money and record
 - **Tests run against a real database.** Mocks don't catch a bad migration.
 - **A shop counter has no reliable internet.** If the business stops when Wi-Fi does, the software failed.
 
+## Stack
+
+| Area | Tools |
+|---|---|
+| Back end | `PHP` `Laravel` `Symfony` `Drupal` `CodeIgniter` `WordPress` `C#` `ASP.NET` `.NET` `Classic ASP` `Node.js` |
+| Data | `MySQL` `SQL Server` `PostgreSQL` `SQLite` `MS Access` `Crystal Reports` |
+| Front end | `React` `TypeScript` `Livewire` `JavaScript` `jQuery` `Angular` `Bootstrap` `Chart.js` |
+| Desktop and devices | `Electron` `Barcode` `RFID` `Fingerprint` |
+| Tooling | `Git` `Docker` `PHPUnit` `Vitest` `Playwright` |
+
 ## Selected work
 
 | Project | Who it's for | Built with |
 |---|---|---|
-| **Mini-Banking** | A savings and credit cooperative: members, shares, loans, vouchers, CSV import | Laravel 13, MySQL |
-| **eIMS** | Groups of schools: admissions, student records, role-based staff access | .NET, React, PostgreSQL, Docker |
-| **ShopBahi** | A mobile repair shop: barcode billing, IMEI stock, party ledgers, cash book, fully offline | Electron, React, TypeScript, SQLite |
-| **iPBX Admin Portal** | A school phone network: prepaid call wallets, call reports, multi-tenant admin | Laravel, MySQL, Asterisk |
-| **GatePass** | Front gates: QR guest passes, scanner, SMS reminders, entry logs | Laravel, Livewire, MySQL |
-| **Polkaji Infotech** | An EdTech company's website and its Smart Student Dialer | Blade, CSS, JavaScript |
-| [princeshakya.com](https://princeshakya.com) | Me | HTML, CSS |
+| **Mini-Banking** | A savings and credit cooperative: members, shares, loans, vouchers, CSV import | `Laravel 13` `MySQL` |
+| **eIMS** | Groups of schools: admissions, student records, role-based staff access | `.NET` `React` `PostgreSQL` `Docker` |
+| **ShopBahi** | A mobile repair shop: barcode billing, IMEI stock, party ledgers, cash book, fully offline | `Electron` `React` `TypeScript` `SQLite` |
+| **iPBX Admin Portal** | A school phone network: prepaid call wallets, call reports, multi-tenant admin | `Laravel` `MySQL` `Asterisk` |
+| **GatePass** | Front gates: QR guest passes, scanner, SMS reminders, entry logs | `Laravel` `Livewire` `MySQL` |
+| **Polkaji Infotech** | An EdTech company's website and its Smart Student Dialer | `Blade` `CSS` `JavaScript` |
+| [princeshakya.com](https://princeshakya.com) | Me | `HTML` `CSS` |
+
+<img src="contributions.svg" width="100%" alt="Contributions in the last year">
 
 ## Get in touch
 
-Building something that has to balance at the end of the day? Write to me through [princeshakya.com](https://princeshakya.com).
+Building something that has to balance at the end of the day? Email [prince.shakya010@gmail.com](mailto:prince.shakya010@gmail.com), or open [princeshakya.com](https://princeshakya.com): it's laid out like an office register, with my work, experience and [résumé](https://princeshakya.com/resume.pdf).
