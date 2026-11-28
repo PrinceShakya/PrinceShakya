@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="51 contributions in the last year">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="52 contributions in the last year">
 <rect width="1200" height="300" fill="#0F2A33"/>
 <rect x="61" y="28" width="1042" height="244" rx="10" fill="#0A1F26" stroke="#1E3E48"/>
 <g font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Roboto, Arial, sans-serif">
-<text x="125" y="66" font-size="20" font-weight="700" fill="#FFFFFF">51 contributions in the last year</text>
+<text x="125" y="66" font-size="20" font-weight="700" fill="#FFFFFF">52 contributions in the last year</text>
 <rect class="day" x="125" y="108" width="14" height="14" rx="3" fill="#163A44"/>
 <rect class="day" x="125" y="126" width="14" height="14" rx="3" fill="#163A44"/>
 <rect class="day" x="125" y="144" width="14" height="14" rx="3" fill="#163A44"/>
@@ -384,7 +384,8 @@
 <rect class="day" x="1061" y="144" width="14" height="14" rx="3" fill="#1F5A4C"/>
 <rect class="day" x="1061" y="162" width="14" height="14" rx="3" fill="#163A44"/>
 <rect class="day" x="1061" y="180" width="14" height="14" rx="3" fill="#163A44"/>
-<rect class="day" x="1061" y="198" width="14" height="14" rx="3" fill="#163A44"/>
+<rect class="day" x="1061" y="198" width="14" height="14" rx="3" fill="#1F5A4C"/>
+<rect class="day" x="1061" y="216" width="14" height="14" rx="3" fill="#163A44"/>
 <text x="113" y="137" font-size="12" fill="#6F8C94" text-anchor="end">Mon</text>
 <text x="113" y="173" font-size="12" fill="#6F8C94" text-anchor="end">Wed</text>
 <text x="113" y="209" font-size="12" fill="#6F8C94" text-anchor="end">Fri</text>
